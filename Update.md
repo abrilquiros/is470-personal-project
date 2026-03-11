@@ -11,7 +11,7 @@ These features allow users to record workout sessions and monitor body weight ch
 
 Below is a screenshot of my Jira backlog showing the completed and remaining backlog items.
 
-![Jira Backlog Screenshot](<img width="752" height="257" alt="image" src="https://github.com/user-attachments/assets/16fb417c-ca77-466c-836d-98f8c17d8c84" />)*<img width="752" height="257" alt="image" src="https://github.com/user-attachments/assets/16fb417c-ca77-466c-836d-98f8c17d8c84" />
+![Jira Backlog Screenshot](<img width="752" height="257" alt="image" src="https://github.com/user-attachments/assets/16fb417c-ca77-466c-836d-98f8c17d8c84" />)
 *
 
 
